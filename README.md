@@ -6,6 +6,8 @@
 - Neovim config $\rightarrow$ [janosch-kalich/nvim-cfg](https://github.com/Janosch-Kalich/nvim-cfg)
 
 ### Experiences + last time used
+<details>
+
 #### Languages
 - Javascript (2024)
 - Typescript (2024)
@@ -54,9 +56,11 @@
 - [Discord.js](https://discord.js.org/) (2021)
 - [Three.js](https://github.com/mrdoob/three.js) (2022)
 - [Flask](https://github.com/pallets/flask) (2018)
-- [Django]([https://github.com/pallets/flask](https://github.com/django/django) (2018)
+- [Django](https://github.com/django/django) (2018)
+</details>
 
 ### Opinions
+<details>
 
 #### Good
 - Linux
@@ -73,8 +77,11 @@
 - GC
 - Python
 - Zig
+</details>
 
 ### Cool software I use
+<details>
+
 - [Neovim](https://neovim.io)
 - [Arch Linux](https://archlinux.org)
 - [LibreWolf](https://librewolf.net/)
@@ -86,3 +93,4 @@
 - [tmux](https://github.com/tmux/tmux/wiki)
 - [alacritty](https://alacritty.org/)
 - [mupdf](https://mupdf.com/)
+</details>
