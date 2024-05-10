@@ -54,7 +54,7 @@
 - [Discord.js](https://discord.js.org/) (2021)
 - [Three.js](https://github.com/mrdoob/three.js) (2022)
 - [Flask](https://github.com/pallets/flask) (2018)
-- [Django]([https://github.com/pallets/flask](https://github.com/django/django)) (2018)
+- [Django]([https://github.com/pallets/flask](https://github.com/django/django) (2018)
 
 ### Opinions
 
